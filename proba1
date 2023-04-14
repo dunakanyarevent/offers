@@ -1,0 +1,515 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dunakanyar Event&amp;Catering</title>
+<style type="text/css">
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: #53702b;
+    text-decoration: underline;
+    font-family: Arial;
+}
+img {
+    border: none;
+}
+table.a {
+    table-layout: auto;
+    width: 100%;
+    color: #838383;
+    line-height: 130%;
+}
+table.b {
+    table-layout: fixed;
+    width: 100%;
+    color: #838383;
+    line-height: 130%;
+}
+td.c {
+    width: 300px;
+    text-align: center;
+    color: #838383;
+    line-height: 130%;
+}
+.contentbox {
+/*	border-radius:15px;*/
+}
+.contentbox p {
+    margin: 0 0 15px;
+    padding: 0;
+    line-height: 130%;
+    color: #838383;
+    font-family: Arial;
+}
+
+@media print {
+.pagebreak {
+    page-break-before: always;
+}
+}
+</style>
+</head>
+<body>
+<table width="100%" border="0" bgcolor="#003b56">
+<tbody>
+  <tr>
+    <td class="bal_margo">&nbsp;</td>
+    <td width="600" class="középső elem" style="width:600;"><table width="600" border="0" class="alapadatok">
+        <tbody>
+          <tr class="elválasztó">
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr class="header">
+            <td class="contentbox" style="padding:10px 30px 10px 10px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <!-- LOGO -->
+                  <tr>
+                    <td align="left"><a href="http://www.dunakanyarevent.hu" rel="noopener noreferrer" target="_blank"><img alt="" src="https://d1b1x2ukpbsimb.cloudfront.net/doc/2020/04-27/3/W/3WWA2OM0gVS9yhK5OqenyA-50376" style="display: block; border: none;" border="0" fr-original-style="display:block;border:none;width: 50%;" fr-original-class="fr-draggable"></a></td>
+                    <td align="right" valign="middle"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody>
+                          <tr>
+                            <td style="padding:0 5px;"><strong><a href="http://dunakanyarevent.hu/office-catering.html" rel="noopener noreferrer" target="_blank">Office catering</a></strong></td>
+                            <td style="padding:0 5px;"><strong><a href="http://dunakanyarevent.hu/eskuvo.html" rel="noopener noreferrer" target="_blank">Esküvő</a></strong></td>
+                            <td style="padding:0 5px;"><strong><a href="http://dunakanyarevent.hu/office-catering.html#ajanlatkeres" rel="noopener noreferrer" target="_blank">Kapcsolat</a></strong></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <a class="mc_track " href="http://dunakanyarevent.hu/eskuvo.html#extForm7-6k" rel="noopener noreferrer" target="_blank"> </a></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr class="elválaszto">
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr class="vendeglatas_ajanlat">
+            <td class="contentbox" style="color:#838383;font-size:15px; padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <tr class="kep">
+                    <td><img src="https://d1b1x2ukpbsimb.cloudfront.net/doc/2020/04-21/p/d/pdJn3Ef_9cDnQUs4bM2hqA-50376" alt="Dunakanyar Event Catering" style="display: block; border: none; border-radius: 7px; width: 100%;" title="Dunakanyar Event Catering" border="0" fr-original-style="display:block;border:none;border-radius:15px;" fr-original-class="fr-draggable"></td>
+                  </tr>
+                  <tr>
+                    <td style="height:15px; font-size:1px;">&nbsp;</td>
+                  </tr>
+                  <tr class="cim">
+                    <td style="font-size:22px; font-weight:bold;font-family:Arial;color:#838383; line-height:130%;"><span style="font-size: 16px;">Kedves {%Person.FirstName%},</span></td>
+                  </tr>
+                  <tr>
+                    <td style="height:10px; font-size:1px;">&nbsp;</td>
+                  </tr>
+                  <tr class="szoveg">
+                    <td style="color:#838383;font-size:15px; line-height:130%;font-family:Arial;"><p style="margin: 0px 0px 15px; padding: 0px; line-height: 130%; color: inherit; font-family: Arial;">Köszönjük ajánlatkérését, melyre az alábbi összeállítást készítettük.</p>
+                    <p style="margin: 0px 0px 15px; padding: 0px; line-height: 130%; color: inherit; font-family: Arial;">Ha a lentiektől eltér amit elképzeltek, szívesen alakítunk rajta a visszajelzéseik alapján. Rugalmasak vagyunk, szeretnénk ha az elképzeléseiknek maximálisan megfelelne az esemény megvalósulása.</p></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr class="elvalaszto">
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr class="cimzett">
+            <td class="contentbox" style="color:#838383;font-size:15px; padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" class="b" width="100%">
+                <tbody>
+                  <tr>
+                    <td style="width:250px;"><strong>Címzett:</strong></td>
+                    <td><strong>Küldő:</strong></td>
+                  </tr>
+                  <tr>
+                    <td>{%Person.Name%} </td>
+                    <td>{%Sender.Name%} </td>
+                  </tr>
+                  <tr>
+                    <td>{%Business.Name%}</td>
+                    <td>Dunakanyar Event&amp;Catering</td>
+                  </tr>
+                  <tr>
+                    <td>{%Person.Phone%} </td>
+                    <td>{%Sender.Phone%} </td>
+                  </tr>
+                  <tr>
+                    <td>{%Person.Email%}</td>
+                    <td>{%Sender.Email%} </td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr class="elvalaszto">
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr class="adatok">
+            <td class="contentbox" style="color:#838383;font-size:15px; padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" class="b" width="100%">
+                <tbody>
+                  <tr>
+                    <td style="width:250px;">Rendezvény típusa:</td>
+                    <td>{%Project.RendzvenyTipusa%}</td>
+                  </tr>
+                  <tr>
+                    <td>Helyszín:</td>
+                    <td>{%Project.Helyszin%} </td>
+                  </tr>
+                  <tr>
+                    <td> Cím: </td>
+                    <td>{%Project.EgyebHelyszinCime%}</td>
+                  </tr>
+                  <tr>
+                    <td>Dátum:</td>
+                    <td>{%Project.RendezvenyDatuma%} </td>
+                  </tr>
+                  <tr>
+                    <td>Létszám:</td>
+                    <td>{%Project.Letszam%} fő </td>
+                  </tr>
+                  <tr>
+                    <td>Ajánlatunk érvényessége:</td>
+                    <td>{%Date.InAMonth%}</td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+        </tbody>
+      </table>
+      <table width="600" border="0" class="megnyito_catering">
+    <tbody>
+  
+  <tr class="elvalaszto">
+    <td style="height:15px; font-size:1px;">&nbsp;</td>
+  </tr>
+  <tr class="megnyito">
+    <td class="contentbox" style="padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+        <tr class="kep">
+          <td><img src="https://d1b1x2ukpbsimb.cloudfront.net/doc/2021/05-16/K/E/KEpqGQC-DhEmJhnZI-EncQ-50376" alt="Dunakanyar Event Catering" style="display: block; vertical-align: top; margin: 5px auto 5px 0px; text-align: left; width: 100%;" title="Holló Birtok panoráma"></td>
+        </tr>
+        <tr class="sajto">
+          <td style="color:#838383;font-size:26px;line-height:130%; font-weight:bold;" width="100%">1. nap</td>
+        </tr>
+        <tr class="sajto">
+          <td style="color:#838383;font-size:22px;line-height:130%; font-weight:bold;" width="100%">Délelőtti bekészítés</td>
+        </tr>
+        <tr class="sajto_items">
+          <td style="color:#838383;font-size:15px;line-height:130%;" width="100%"><ul>
+            <li>Prémium miniszendvicsek, gyümölcs
+              <ul>
+                  
+                  <li>Füstölt tarja mini zsemlében, amerikai káposztasalátával</li>
+                  
+                  <li>Toscan chiabatta (füstölt sonka, sajt, pesto, rukkola)</li>
+                  <li>Hummus Avocado Wrap (Vegán, LM)</li>
+                  <li>Sült céklasaláta (GM, LM, Vegán)
+</li>
+                  <li>Vágott idénygyümölcsök </li>
+              </ul>
+              </li>
+            <li>Frissen sült édes és sós sütemények (10 dkg/fő)
+<ul>
+                <li>sajtos, tepertős, pogácsa</li>
+                <li>sós és magvas rudak</li>
+                <li>édes aprósütemények</li>
+                <li>GM-LM sütemények is</li>
+</ul>
+            </li>
+              <li>Szénsavas üdítők
+                <ul>
+                  <li>Coca Cola, Coca Cola Zero, Fanta Narancs</li>
+                </ul>
+            </li>
+              <li>Szűrt és rostos gyümölcslevek
+                <ul>
+                  <li>almalé, őszibaracklé, narancslé</li>
+                </ul>
+            </li>
+              <li>Ásványvíz
+                <ul>
+                  <li>szénsavmentes és szénsavas</li>
+                </ul>
+              </li>
+              <li>Kávé, tea
+                <ul>
+                  <li>kínálatunk laktózmentes tejet is tartalmaz</li>
+                  </ul>
+              </li>
+              
+        </ul></td>
+      </tr>
+        <tr class="sajto">
+          <td style="color:#838383;font-size:22px;line-height:130%; font-weight:bold;" width="100%">Délutáni bekészítés</td>
+        </tr>
+        <tr class="sajto_items">
+          <td style="color:#838383;font-size:15px;line-height:130%;" width="100%"><ul>
+            
+            <li>Frissen sült édes és sós sütemények (10 dkg/fő)
+              <ul>
+                <li>burgonyás, juhtúrós pogácsa</li>
+                <li>sós és magvas rudak</li>
+                <li>édes aprósütemények</li>
+                <li>GM-LM sütemények is</li>
+                </ul>
+            </li>
+            <li>Gyümölcssaláta</li>
+            <li>Szénsavas üdítők
+              <ul>
+                <li>Coca Cola, Coca Cola Zero, Fanta Narancs</li>
+              </ul>
+          </li>
+            <li>Szűrt és rostos gyümölcslevek
+              <ul>
+                <li>almalé, őszibaracklé, narancslé</li>
+              </ul>
+            </li>
+            <li>Ásványvíz
+              <ul>
+                <li>szénsavmentes és szénsavas</li>
+              </ul>
+            </li>
+            <li>Kávé, tea
+              <ul>
+                <li>kínálatunk laktózmentes tejet is tartalmaz</li>
+              </ul>
+            </li>
+          </ul></td>
+        </tr>
+      </tbody>
+      
+    </table></td>
+  </tr>
+  <tr class="elvalaszto">
+    <td style="height:15px; font-size:1px;">&nbsp;</td>
+  </tr>
+  <tr class="megnyito">
+    <td class="contentbox" style="padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+        <tr class="kep">
+          <td><img src="https://d1b1x2ukpbsimb.cloudfront.net/doc/2021/05-16/K/E/KEpqGQC-DhEmJhnZI-EncQ-50376" alt="Dunakanyar Event Catering" style="display: block; vertical-align: top; margin: 5px auto 5px 0px; text-align: left; width: 100%;" title="Holló Birtok panoráma"></td>
+        </tr>
+        <tr class="sajto">
+          <td style="color:#838383;font-size:26px;line-height:130%; font-weight:bold;" width="100%">2. nap</td>
+        </tr>
+        <tr class="sajto">
+          <td style="color:#838383;font-size:22px;line-height:130%; font-weight:bold;" width="100%">Délelőtti bekészítés</td>
+        </tr>
+        <tr class="sajto_items">
+          <td style="color:#838383;font-size:15px;line-height:130%;" width="100%"><ul>
+            <li>Prémium miniszendvicsek, gyümölcs
+              <ul>
+                
+                <li>Jércemelles tortilla tekercs friss salátával</li>
+                <li>Sonkás, sajtos croissant szendvics</li>
+                
+                <li>Füstös padlizsánkrémes kanapé (V)</li>
+                <li>Balzsamos, tökmagos, avokádós zöld saláta (GM, LM, Vegán)</li>
+                
+                <li>Vágott idénygyümölcsök </li>
+              </ul>
+            </li>
+            <li>Frissen sült édes és sós sütemények (10 dkg/fő)
+              <ul>
+                <li>sajtos, tepertős, pogácsa</li>
+                <li>sós és magvas rudak</li>
+                <li>édes aprósütemények</li>
+                <li>GM-LM sütemények is</li>
+              </ul>
+            </li>
+            <li>Szénsavas üdítők
+              <ul>
+                <li>Coca Cola, Coca Cola Zero, Fanta Narancs</li>
+              </ul>
+            </li>
+            <li>Szűrt és rostos gyümölcslevek
+              <ul>
+                <li>almalé, őszibaracklé, narancslé</li>
+              </ul>
+            </li>
+            <li>Ásványvíz
+              <ul>
+                <li>szénsavmentes és szénsavas</li>
+              </ul>
+            </li>
+            <li>Kávé, tea
+              <ul>
+                <li>kínálatunk laktózmentes tejet is tartalmaz</li>
+              </ul>
+            </li>
+          </ul></td>
+        </tr>
+        <tr class="sajto">
+          <td style="color:#838383;font-size:22px;line-height:130%; font-weight:bold;" width="100%">Délutáni bekészítés</td>
+        </tr>
+        <tr class="sajto_items">
+          <td style="color:#838383;font-size:15px;line-height:130%;" width="100%"><ul>
+            <li>Frissen sült édes és sós sütemények (10 dkg/fő)
+              <ul>
+                <li>burgonyás, juhtúrós pogácsa</li>
+                <li>sós és magvas rudak</li>
+                <li>édes aprósütemények</li>
+                <li>GM-LM sütemények is</li>
+              </ul>
+            </li>
+            <li>Gyümölcssaláta</li>
+            <li>Szénsavas üdítők
+              <ul>
+                <li>Coca Cola, Coca Cola Zero, Fanta Narancs</li>
+              </ul>
+            </li>
+            <li>Szűrt és rostos gyümölcslevek
+              <ul>
+                <li>almalé, őszibaracklé, narancslé</li>
+              </ul>
+            </li>
+            <li>Ásványvíz
+              <ul>
+                <li>szénsavmentes és szénsavas</li>
+              </ul>
+            </li>
+            <li>Kávé, tea
+              <ul>
+                <li>kínálatunk laktózmentes tejet is tartalmaz</li>
+              </ul>
+            </li>
+          </ul></td>
+        </tr>
+      </tbody>
+    </table></td>
+</tr>
+    </tbody>
+  
+      </table>
+<table width="600" border="0" class="informaciok_corporate">
+  <tbody>
+    <tr class="elvalaszto">
+      <td style="height:15px; font-size:1px;">&nbsp;</td>
+    </tr>
+    <tr class="ajanlatkeres">
+      <td class="contentbox" style="padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+          <tr>
+            <td style="font-size:15px; color:#838383;line-height:130%;" width="100%"><table border="0" cellpadding="0" cellspacing="0" class="a" width="100%">
+              <tbody>
+                <tr>
+                  <td align="center" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody>
+                      <tr align="center">
+                        <td><table border="0" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr align="center">
+                              <td align="center" bgcolor="#c9243f" style="-webkit-border-radius: 3px; -moz-border-radius: 4px; border-radius: 3px;"><font><a class="button1     mc_track" href="https://r3.minicrm.hu/" style="font-size: 32px;color: #ffffff; text-decoration: none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 10px 20px; border: 1px solid #00569A; display: inline-block;" target="_blank"> <strong>Tervezett költségvetés</strong></a></font></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td align="center" width="100%"><table border="0" cellpadding="0" cellspacing="0" style="margin-right: calc(0%); width: 100%;" width="100%">
+                    <tbody>
+                      <tr align="center">
+                        <td><table border="0" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr align="center">
+                              <td style="font-size:15px; font-family:Arial;color:#838383; line-height:120%;"> Az ajánlott költségvetés megnyitásához <br>
+                                &nbsp;kérjük KATTINTSON a fenti PIROS GOMBRA</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                          <span style="font-size: 14px;"> </span></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="100%"><table border="0" cellpadding="0" cellspacing="0" class="b" width="100%">
+              <tbody>
+                <tr>
+                  <td style="font-size:22px; font-weight:bold;font-family:Arial;color:#838383; line-height:130%;"> Információk a költségvetéshez </td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="100%"><table border="0" cellpadding="0" cellspacing="0" class="a" width="100%">
+              <tbody>
+                <tr>
+                  <td style="color:#838383;font-size:15px;line-height:130%;" width="100%"><ul>
+                    <li><strong>Az árak nettó árak, nem tartalmazzák a 27% áfát.</strong></li>
+                    
+                    <li>A választékban szívesen teljesítünk egyéni igényeket is.</li>
+                    <li><strong>Ajánlatunk tartalmazza a személyzetet és a felszolgáláshoz szükséges minőségi porcelán, fém, üveg tálalási és evőeszközöket, poharakat,</strong> valamint az italok és ételek kínálásához szükséges asztalokat.</li>
+                    
+                    <li>Az italok fajtáinak változtatási jogát fenntartjuk kategórián belül.</li>
+                    
+                    <li>Ajánlatunk egy komplett egységet alkot, ezért a szolgáltatási elemek külön-külön való megrendelése az ajánlati árak változását vonhatja maga után.</li>
+                    <li>Maximum 10%-os létszámmódosítást a rendezvény előtt legkésőbb egy héttel fogadunk el.</li>
+                    <li>Fizetési határidő: számla kiállítástól 8 munkanap.</li>
+                    <li>Covid intézkedések: Vírus helyzetben a személyzet maszkot és kesztyűt visel, az ételek szedésénél a személyzet segít, hogy minél kevesebb érintés történjen a tányérokhoz, kiszedőkhöz. Fertőtlenítő géleket helyezünk ki a büfé asztalokra és a vendégtérbe több ponton. </li>
+                    <li><em>“Kérjük, gondoljon a környezetére, mielőtt kinyomtatja ezt a levelet!"</em></li>
+                  </ul></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="100%"><table border="0" cellpadding="0" cellspacing="0" class="b" width="100%">
+              <tbody>
+                <tr>
+                  <td style="color:#838383;font-size:15px;line-height:130%;" width="100%"><table style="width: 100%;">
+                    <tbody>
+                      <tr>
+                        <td style="font-size:18px; font-weight:bold;font-family:Arial;color:#838383; line-height:130%;"> Kérdés, módosítási igény esetén keressenek bizalommal!</td>
+                      </tr>
+                      <tr>
+                        <td style="color:#838383;font-size:15px;line-height:130%;" width="100%">{%Sender.EmailSignature%} </td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+<table width="600" border="0" class="leiratkozas">
+  <tbody>
+          <tr class="elválaszto">
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+          <tr class="leiratkozas_szoveg">
+            <td class="contentbox" style="color:#838383;font-size:15px; padding:25px;background:#fff;border-radius:15px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" class="outertext" style="font-size: 13px;font-style: 300;color: #898f9c;line-height: 24px;"><font>Ezt az emailt a(z) {%Recipient.Email%} email címről kapott ajánlatkérésére küldjük.<br>
+                      Feladó: K+K Perfect Kft, 2000 Szentendre,Szűcs József utca 33.</font></td>
+                  </tr>
+                  <tr>
+                    <td height="10">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="center" class="outertext unsubscribe" style="font-size: 13px;font-style: 500;color: #898f9c;line-height: 24px;font-weight: bold;"><font><a href="{%Other.UnsubscribeUrlTracked%}" style="color: #898f9c !important;font-weight: 500;font-style: normal;">Leiratkozás</a>&nbsp; | &nbsp;<a href="{%Other.OnlineUrl%}" style="color: #898f9c !important;font-weight: 500;font-style: normal;">Megtekintés böngészőben</a></font></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr class="elvalaszto">
+            <td style="height:15px; font-size:1px;">&nbsp;</td>
+          </tr>
+        </tbody>
+  </table>
+    <td class="jobb_margo">&nbsp;</td>
+</body>
+</html>
